@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <page>
+    <title>Organic Chemistry/Cover</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>2835870</id>
+      <parentid>2247133</parentid>
+      <timestamp>2015-03-30T05:55:04Z</timestamp>
+      <contributor>
+        <ip>31.168.90.10</ip>
+      </contributor>
+      <comment>/* The Study of Organic Chemistry */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;center&gt;Welcome to the world's foremost open content&lt;br&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;'''Organic Chemistry Textbook'''&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;br&gt;on the web!&lt;/center&gt;
+
+{| cellpadding=&quot;5&quot;
+|-
+| &lt;noinclude&gt;&lt;big&gt;'''[[Organic Chemistry|Go&amp;nbsp;to&amp;nbsp;contents&amp;nbsp;&gt;&gt;]]'''&lt;/big&gt; &lt;/noinclude&gt;
+| [[Image:Ethane3D.png]]
+| This '''free''' online text is intended to become a ''complete replacement'' for your printed book.
+|}
+
+== The Study of Organic Chemistry ==
+Organic chemistry is primarily devoted to the unique properties of the carbon atom and its compounds.  These compounds play a critical role in biology and ecology, Earth sciences and geology, physics, industry, medicine and &amp;mdash; of course &amp;mdash; chemistry.  At first glance, the new material that organic chemistry brings to the table may seem complicated and daunting, but all it takes is concentration and perseverance.  Millions of students before you have successfully passed this course and you can too!
+
+This field of chemistry is based less on formulas and more on reactions between various molecules under different conditions. Whereas a typical general chemistry question may ask a student to compute an answer with an equation from the chapter that they memorized, a more typical organic chemistry question is along the lines of &quot;what product will form when substance X is treated with solution Y and bombarded by light&quot;. The key to learning organic chemistry is to ''understand'' it rather than cram it in the night before a test.  It is all well and good to memorize the mechanism of Michael addition, but a superior accomplishment would be the ability to explain ''why'' such a reaction would take place.
+
+As in all things, it is easier to build up a body of new knowledge on a foundation of solid prior knowledge.  Students will be well served by much of the knowledge brought to this subject from the subject of [[General Chemistry]].  Concepts with particular importance to organic chemists are covalent bonding, Molecular Orbit theory, VSEPR Modeling, understanding acid/base chemistry vis-a-vis pKa values, and even trends of the periodic table.  This is by no means a comprehensive list of the knowledge you should have gained already in order to fully understand the subject of organic chemistry, but it should give you some idea of the things you need to know to succeed in an organic chemistry test or course.
+
+Organic Chemistry is one of the subjects which are very useful and close to our daily life. We always try to figure out some of the unknown mysteries of our daily life through our factious  thinking habit, which generates superstitions. Through the help of chemistry we can help ourselves to get out of this kind of superstition.
+We always try to find the ultimate truth through our own convenience. In the ancient past we had struggled to make things to go as per our need. In that context we have found fire, house, food, transportation, etc…
+
+Now the burning question is: &quot;how can chemistry help our daily life?&quot;  To find the answer of this questions, we have to know the subject thoroughly.  Let us start it from now.
+
+{{BookCat}}</text>
+      <sha1>i0opne57s7vyghfl8wq4234ose3dceq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>1925731</id>
+      <parentid>1925728</parentid>
+      <timestamp>2010-09-02T06:08:27Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/119.152.89.121|119.152.89.121]] ([[User talk:119.152.89.121|talk]]) to last revision by [[User:Whiteknight|Whiteknight]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The purpose of this section is to review topics from freshman [[General Chemistry|chemistry]] and build the foundation for further studies in organic chemistry.
+
+#[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry|History of organic chemistry]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic chemistry/Foundational concepts of organic chemistry/Atomic structure|Atomic structure]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|Bonding]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|Electron dot structures]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Visualization|Visualization]]{{stage short|75%|November 12, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases]] {{stage short|100%|April 28, 2006}}
+#[[Organic_Chemistry/Foundational_concepts_of_organic_chemistry/Nomenclature|Nomenclature]] {{stage short|100%|Nov 25, 2006}}
+
+----
+[[Image:Go To Organic Chemistry Contents .png]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>13uxf6qw4x9wgkeiv8rva3vy3ftz8x9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>2596377</id>
+      <parentid>2596255</parentid>
+      <timestamp>2013-12-27T00:35:15Z</timestamp>
+      <contributor>
+        <username>Gadfium</username>
+        <id>10190</id>
+      </contributor>
+      <comment>rv, unexplained deletion of content.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Go To Organic Chemistry Contents .png]] &gt; Introduction to reactions
+----
+
+
+
+==Specific Reactions==
+#[[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Polar and radical reactions]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Redox reactions|Redox reactions]] {{stage short|75%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Carbocations|Carbocations]]{{stage short|50%|Jan 29, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Hydroboration/oxidation|Hydroboration/oxidation]]
+#[[Organic Chemistry/Introduction to reactions/Free-radical_halogenation|Free-radical halogenation]] {{stage short|50%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Rearrangement reactions|Rearrangement reactions]]
+#[[Organic Chemistry/Introduction to reactions/Pericyclic reactions|Pericyclic reactions]]
+#[[Organic Chemistry/Introduction to reactions/Diels-Alder reaction|Diels-Alder reaction]]
+
+----
+
+
+{{BookCat}}</text>
+      <sha1>o77umgv0lzcfiser6mqjuxm3w9hcw2e</sha1>
+    </revision>
+  </page>
+</mediawiki>
